@@ -1,0 +1,12 @@
+{
+ "_id" :{"$oid":"000000000000000000000001"},
+ "email" : "bob@1.com",
+ "password" : "$2a$10$k7FASip5s1Tp7WuqUk.5GeorpJ5u5Mlb8HPu.K4vKBTjhCOwPDvDC"
+}
+
+
+{
+ "_id" :"$oid":{"000000000000000000000002"},
+ "email" : "a@1.com",
+ "password" : "$2a$10$5WhuVinFvgx4VZe4KovdvOYlwGVXwRPMTq6QblBhT3.mPoLXmI3yq"
+}
